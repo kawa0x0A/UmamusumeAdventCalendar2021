@@ -17,17 +17,17 @@ title : 「ぴょいっと♪はれるや！」ここ好きポイントまとめ
 
 ---
 
-![シーン1]({{ site.baseurl }}/assets/images/posts/20211208_2.PNG)
+![シーン1]({{ site.baseurl }}/assets/images/posts/20211208_2.png)
 
 みんなの笑顔がかわいい
 
 
-![シーン2]({{ site.baseurl }}/assets/images/posts/20211208_3.PNG)
+![シーン2]({{ site.baseurl }}/assets/images/posts/20211208_3.png)
 
 みんなで決めポーズ取るのかわいい
 
 
-![シーン3]({{ site.baseurl }}/assets/images/posts/20211208_4.PNG)
+![シーン3]({{ site.baseurl }}/assets/images/posts/20211208_4.png)
 
 カットインかわいい
 
